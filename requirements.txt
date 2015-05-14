@@ -1,0 +1,3 @@
+midi==0.2.3
+numpy==1.9.2
+pretty-midi==0.0.1
